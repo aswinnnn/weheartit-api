@@ -1,0 +1,10 @@
+/api/v2/notifications/{id}
+/api/v2/user/invitations/count?increment=1
+/api/v2/inspirations/{id}/join
+/api/v2/inspirations/{id}/leave
+/api/v2/collections/{id}
+/api/v2/entries/{entryId}/comments/{commentId}
+/api/v2/user
+/api/v2/user
+/api/v2/entries/{id}
+/api/v2/user
