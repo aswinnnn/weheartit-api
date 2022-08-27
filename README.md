@@ -161,5 +161,5 @@ All the endpoints are categorized by request methods that can be utilized on the
 
 ---
 
-### for details on how this information was gathered, see [here]()
-### If you're looking for an API wrapper for this, checkout [weheartpy](https://github.com/aswinnnn/weheartpy), which is a _work in progress_.
+#### for details on how this information was gathered, see [here]()
+##### If you're looking for an API wrapper for this, checkout [weheartpy](https://github.com/aswinnnn/weheartpy), which is a _work in progress_.
