@@ -1,3 +1,5 @@
+/oauth/token/
+/upload/
 /api/v2/collections/{collectionId}/collaborators/abandon
 /api/v2/devices/activate
 /api/v2/collections/{collection_id}/entries/{entry_id}
