@@ -161,5 +161,5 @@ All the endpoints are categorized by request methods that can be utilized on the
 
 ---
 
-#### for details on how this information was gathered, see [here]()
+#### for details on how this information was gathered, see [here](https://aswinnnn.github.io/blog/Reverse-Engineering-the-We-Heart-It-API/)
 ##### If you're looking for an API wrapper for this, checkout [weheartpy](https://github.com/aswinnnn/weheartpy), which is a _work in progress_.
