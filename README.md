@@ -83,6 +83,8 @@ All the endpoints are categorized by request methods that can be utilized on the
 
 | uri |
 |:----|
+|`/oauth/token`|
+|`/upload/`|
 | `/api/v2/collections/{collectionId}/collaborators/abandon` |
 | `/api/v2/devices/activate` |
 | `/api/v2/collections/{collection_id}/entries/{entry_id}` |
