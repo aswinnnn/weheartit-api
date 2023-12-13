@@ -1,3 +1,5 @@
+### WeHeartIt sold, purged and is an image editing app now. These endpoints wont work for anything now.
+
 ## 💗 WeHeartIt API Endpoints 
 
 Reverse engineered endpoints from decompiled sources of weheartit.com's official Android App.
